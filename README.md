@@ -1,0 +1,1 @@
+projeto para fins de estudo e práticas de python
